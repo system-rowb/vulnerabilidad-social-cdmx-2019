@@ -17,3 +17,6 @@ El código __vulnerabilidad_social_cdmx.py__ contiene el ejecutable para el usua
 ![Grafica3](/graficas/Vulnerabilidad_social_x_alcaldias_descrp_general_Bajo.png)
 ![Grafica4](/graficas/Vulnerabilidad_Social_por_entradas_totales_en_la_CDMX.png)
 ![Grafica5](/graficas/Gráfica_pastel_descripción_Iztapalapa.png)
+
+
+Segundo proyecto en python con manejo de datos y visualización.
